@@ -12,4 +12,4 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madziaszmatloch&show_icons=true&locale=en&layout=compact&theme=cobalt&" alt="madziaszmatloch" /></p>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madziaszmatloch&theme=cobalt alt="madziaszmatloch" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madziaszmatloch&theme=cobalt" alt="madziaszmatloch" /></p>
