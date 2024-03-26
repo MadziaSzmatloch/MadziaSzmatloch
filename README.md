@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madzia</h1>
 <h3 align="center">Third-year IT student at the Silesian University of Technology.</h3>
 
-- 🌱 I’m currently learning **C#, Unity and Kotlin**
+- 🌱 I’m currently learning **C# and Angular**
 
 - 📫 How to reach me **magdaszmatloch@gmail.com**
 
