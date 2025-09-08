@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C# and Angular**
 
-- 📫 How to reach me **magdaszmatloch@gmail.com**
+- 📫 How to reach me **szmatlochmagdalena@gmail.com**
 
 
 <h3 align="center">Languages and Tools:</h3>
